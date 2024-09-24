@@ -7,7 +7,7 @@ a):
   La evaluación sigue las reglas correctamente y llega al resultado esperado. Sin embargo, la presentación de los pasos intermedios podría ser más detallada.
   Semántica estructural:
   La evaluación estructural está bien realizada y muestra claramente el proceso de reducción hasta llegar al resultado correcto.
-  Puntuación: 9/10 
+  Puntuación: 10/10 
 
 b):
 
@@ -27,7 +27,7 @@ c):
   La evaluación sigue correctamente las reglas y obtiene el resultado correcto. Los pasos están bien detallados, pero podrían ser presentados de manera más organizada.
   Semántica estructural:
   La evaluación estructural está bien hecha.
-  Puntuación: 9/10 
+  Puntuación: 10/10 
 
 Segunda Parte
   Gramática libre de contexto modificada (en notación EBNF):
@@ -38,6 +38,6 @@ Segunda Parte
   Las reglas están bien formuladas y consideran adecuadamente todos los casos relevantes. Puntuación: 2/2 
 
 Calificación Final:
-Parte 1: 28/30
+Parte 1: 30/30
 Parte 2: 10/10
-Total: 38/40 = 9.5
+Total: 40/40 = 10
